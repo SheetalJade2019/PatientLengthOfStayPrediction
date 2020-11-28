@@ -10,7 +10,7 @@ The objective of this system is to predict Length of stay of patient accurately 
 
 ### Working
 
-*The working of this system is divided in 3 main parts 
+*   The working of this system is divided in 3 main parts 
     
            1) Pre-processing of data 
            2) ML model 
